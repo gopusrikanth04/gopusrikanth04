@@ -34,6 +34,9 @@ Here are some ideas to get you started:
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 </a>
+</p>
+
+<p>
 
        <a href="https://bitbucket.org/" target="_blank" rel="noreferrer">
 <img src="https://e7.pngegg.com/pngimages/475/330/png-clipart-bitbucket-computer-software-github-bitbucket-server-blue-angle-thumbnail.png" 
