@@ -6,8 +6,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **BitBucket | SAP BTP | UI5 | CAPM | CPI **
-- 🌱 I’m currently learning **SAP BTP**
+- 🔭 I’m currently working on: **BitBucket | SAP BTP | UI5 | CAPM | CPI**
+- 🌱 I’m currently learning: **SAP BTP**
 - 👨‍💻 All of my projects are available at [https://github.com/gopusrikanth04](https://github.com/gopusrikanth04)
 - 💬 Ask me about **SAPUI5 | CAPM | BTP | CPI | ABAP | NODEJS | React Js**
 - 📫 How to reach me: **gopusrikanth422@gmail.com**
