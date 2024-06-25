@@ -39,22 +39,9 @@ Here are some ideas to get you started:
 <h3 align="left">Tools</h3>
 <p align="left"> 
        <a href="https://bitbucket.org/" target="_blank" rel="noreferrer">
-           <img src="https://e7.pngegg.com/pngimages/475/330/png-clipart-bitbucket-computer-software-github-bitbucket-server-blue-angle- 
-              thumbnail.png" alt="bitbucket" width="40" height="40"/>
+<img src="https://e7.pngegg.com/pngimages/475/330/png-clipart-bitbucket-computer-software-github-bitbucket-server-blue-angle-thumbnail.png" 
+      alt="bitbucket" width="40" height="40"/>
        </a>
 
-<a href="
-https://github.com/"
-target="_blank" rel="noreferrer">
-<img src="
-https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png"
-alt="Github" width="40" height="40"/>
-</a>
-<a href="
-https://about.gitlab.com/"
-target="_blank" rel="noreferrer">
-<img src="
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5jlxFcjp8rDKSsQOVZH_0NJaFkd5HWWz5Cw&s"
-alt="Github" width="40" height="40"/>
-</a>
+
 </p>
