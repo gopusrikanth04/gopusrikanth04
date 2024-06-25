@@ -38,13 +38,10 @@ Here are some ideas to get you started:
 
 <h3 align="left">Tools</h3>
 <p align="left"> 
-       <a href="
-https://bitbucket.org/"
-target="_blank" rel="noreferrer">
-<img src="
-https://e7.pngegg.com/pngimages/475/330/png-clipart-bitbucket-computer-software-github-bitbucket-server-blue-angle-thumbnail.png"
-alt="bitbucket" width="40" height="40"/>
-</a>
+       <a href="https://bitbucket.org/" target="_blank" rel="noreferrer">
+           <img src="https://e7.pngegg.com/pngimages/475/330/png-clipart-bitbucket-computer-software-github-bitbucket-server-blue-angle- 
+              thumbnail.png" alt="bitbucket" width="40" height="40"/>
+       </a>
 
 <a href="
 https://github.com/"
